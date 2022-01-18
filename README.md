@@ -1,2 +1,2 @@
 # shareme
-shareme app
+shareme social app
